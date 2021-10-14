@@ -21,4 +21,5 @@ If you want to contribute, make a pull request with the translations or correcti
 
 The translations on the web are being done using i18next, if you have any questions about how to use it, please contact us on our discord channel!
 
+[Discord](https://discord.gg/RwZ3BWgsGz)
   
