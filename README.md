@@ -21,5 +21,11 @@ If you want to contribute, make a pull request with the translations or correcti
 
 The translations on the web are being done using i18next, if you have any questions about how to use it, please contact us on our discord channel!
 
+
+## 🔗 Links
 [Discord](https://discord.gg/RwZ3BWgsGz)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RuizSantaclara)
+
+  
   
